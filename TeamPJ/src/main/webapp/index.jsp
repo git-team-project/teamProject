@@ -10,6 +10,7 @@
 <body>
 	
 	<%
+// 	asasd
 		request.setCharacterEncoding("euc-kr");
 	%>
 	
